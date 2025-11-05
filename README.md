@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=TuIxnEoEw1M&list=PLM6XATa8CAG4yon8mB4RNOvp9UFY2p
 https://www.figma.com/design/DZ4zy8MGhdIsKiXXGpJbEq/Weeb?m=auto&t=7bJ5DiF2LMOFv9Nf-6 - Макет
 
 https://www.youtube.com/live/TuIxnEoEw1M?si=pYpUvpk-kgoFEATp - Адаптивна верстка для початківців. З нуля і до завершення. Пояснення дій. HTML CSS FIGMA. Частина №2
+
+https://www.youtube.com/live/TuIxnEoEw1M?si=LWheQbPr0qD0O1rO&t=3600 - Адаптивна верстка для початківців. З нуля і до завершення. Пояснення дій. HTML CSS FIGMA. Частина №2.(Продолжение)
